@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi 👋! I'm @steelbrain
 
-<!--
-**steelbrain/steelbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 I'm the creator of some of the most loved Atom packages like:
+- [linter](https://github.com/steelbrain/linter)
+- [busy-signal](https://github.com/steelbrain/busy-signal)
+- [intentions](https://github.com/steelbrain/intentions)
 
-Here are some ideas to get you started:
+📦 I've also crafted popular node.js libraries:
+- [node-ssh](https://npmjs.com/package/node-ssh)
+- [php-serialize](https://npmjs.com/package/php-serialize)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 My packages have received over **100 million downloads** on NPM!
+
+🌲 Outside of coding, I love:
+
+- Taking long hikes
+- Exploring the world of cars
+- Diving deep into soldering projects
+
+📫 Wanna connect? Have cool ideas? Write to me at hello at my username dot ai.
