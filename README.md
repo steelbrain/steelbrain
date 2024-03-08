@@ -17,4 +17,4 @@
 - Exploring the world of cars
 - Diving deep into soldering projects
 
-📫 Wanna connect? Have cool ideas? Write to me at hello at my username dot ai.
+📫 Wanna connect? Have cool ideas? Write to me at hello at my aneesiqbal dot ai.
