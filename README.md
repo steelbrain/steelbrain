@@ -1,4 +1,4 @@
-## Hi 👋! I'm @steelbrain
+## Hi! I'm @steelbrain
 
 🛠 I'm the creator of some of the most loved Atom packages like:
 - [linter](https://github.com/steelbrain/linter)
