@@ -11,10 +11,8 @@
 
 📈 My packages have received over **100 million downloads** on NPM!
 
-🌲 Outside of coding, I love:
+🧑‍💻 Current Hobby Projects:
 
-- Taking long hikes
-- Exploring the world of cars
-- Diving deep into soldering projects
+- [ClearLook.cam](https://clearlook.cam) - AI powered macOS Camera Application
 
 📫 Wanna connect? Have cool ideas? Write to me at hello at my aneesiqbal dot ai or [@realsteelbrain](https://x.com/realsteelbrain) on X.
