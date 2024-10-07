@@ -13,6 +13,6 @@
 
 🧑‍💻 Current Hobby Projects:
 
-- [ClearLook.cam](https://clearlook.cam) - AI powered macOS Camera Application
+- [ClearLook.cam](https://clearlook.cam) - WIP - AI powered macOS Camera Application
 
 📫 Wanna connect? Have cool ideas? Write to me at hello at my aneesiqbal dot ai or [@realsteelbrain](https://x.com/realsteelbrain) on X.
