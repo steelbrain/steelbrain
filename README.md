@@ -6,8 +6,8 @@
 - [intentions](https://github.com/steelbrain/intentions)
 
 📦 I've also crafted popular node.js libraries:
-- [node-ssh](https://npmjs.com/package/node-ssh)
-- [php-serialize](https://npmjs.com/package/php-serialize)
+- [node-ssh](https://npmjs.com/package/node-ssh) / [node-ssh.com](https://node-ssh.com)
+- [php-serialize](https://npmjs.com/package/php-serialize) / [php-serialize.com](https://php-serialize.com)
 
 📈 My packages have received over **100 million downloads** on NPM!
 
