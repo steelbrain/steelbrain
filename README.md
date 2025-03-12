@@ -11,4 +11,4 @@
 
 📈 My packages have received over **100 million downloads** on NPM!
 
-📫 Wanna connect? Have cool ideas? Write to me at hello at my aneesiqbal dot ai or [@realsteelbrain](https://x.com/realsteelbrain) on X.
+📫 Wanna connect? Have cool ideas? Write to me at hello at aneesiqbal dot ai or [@realsteelbrain](https://x.com/realsteelbrain) on X.
