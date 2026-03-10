@@ -1,5 +1,9 @@
 ## Hi! I'm @steelbrain
 
+🎥 Some of my recent projects:
+- [LemurCam](https://lemur.cam/) — Turn any IP camera into a virtual webcam on macOS. Works with Zoom, Teams, OBS, and more.
+- [ffmpeg-over-ip](https://ffmpeg-over-ip.com/) — GPU-accelerated video transcoding over the network. No passthrough, no shared filesystems, just a single TCP port.
+
 🛠 I'm the creator of some of the most loved Atom packages like:
 - [linter](https://github.com/steelbrain/linter)
 - [busy-signal](https://github.com/steelbrain/busy-signal)
